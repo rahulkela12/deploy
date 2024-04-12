@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Outfit&display=swap');
+
+*
+{
+    margin :0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+button,
+input{
+    font-family: "Agdasima", sans-serif;
+}
+
+body
+{
+    max-height: 100vh;
+    max-width: 100vw;
+    overflow: hidden;
+}
